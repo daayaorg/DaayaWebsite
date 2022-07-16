@@ -1,0 +1,6 @@
+[submodule "juice"]
+	path = juice
+	url = https://github.com/huhu/juice.git
+[submodule "themes/juice"]
+	path = themes/juice
+	url = https://github.com/huhu/juice.git
