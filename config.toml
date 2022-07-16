@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://helpmalawi.org"
+base_url = "https://www.daaya.org"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
@@ -20,8 +20,8 @@ highlight_code = true
 
 [extra]
 # Put all your custom variables here
-juice_logo_name = "Malawi"
-juice_logo_path = "MW-Districts.svg"
+juice_logo_name = "Daaya"
+juice_logo_path = "Daaya.png"
 juice_extra_menu = [
     { title = "Donate", link = "https://paypal.me/daaya"}
 ]

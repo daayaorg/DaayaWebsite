@@ -1,1 +1,1 @@
-zola build
+./zola build
