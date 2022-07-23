@@ -21,7 +21,7 @@ highlight_code = true
 [extra]
 # Put all your custom variables here
 juice_logo_name = "Daaya"
-juice_logo_path = "Daaya.png"
+juice_logo_path = "Daaya_transparent.png"
 juice_extra_menu = [
     { title = "Donate", link = "https://paypal.me/daaya"}
 ]
