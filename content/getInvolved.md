@@ -1,13 +1,13 @@
 +++
 title = "Get Involved"
 description = "Get Involved"
-weight = 3
+weight = 1
 +++
 
 # Volunteering Opportunities
-Please contact [matekenyagloria@gmail.com](matekenyagloria@gmail.com) for volunteering opportunities in Malawi.
+Please contact [matekenyagloria@gmail.com](mailto:matekenyagloria@gmail.com) for volunteering opportunities in Malawi.
 
-Contact [sangya@daaya.org](sangya@daaya.org) or [nirmitbrahma@gmail.com](nirmitbrahma@gmail.com) for Local Projects
+Contact [sangya@daaya.org](mailto:sangya@daaya.org) or [nirmit@daaya.org](mailto:nirmit@daaya.org) for Local Projects
 
 <br>
 

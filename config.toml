@@ -22,7 +22,7 @@ highlight_code = true
 # Put all your custom variables here
 juice_logo_name = "Daaya"
 juice_logo_path = "Daaya_transparent.png"
-juice_extra_menu = [
-    { title = "Donate", link = "https://paypal.me/daaya"}
+juice_extra_menu1 = [
+    { title = "Donate", link = "https://paypal.me/daayainc"}
 ]
 repository_url = "https://github.com/huhu/juice"

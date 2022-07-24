@@ -1,7 +1,8 @@
 +++
 title = "About"
 description = "About"
-weight = 3
+weight = 0
+mailto="matekenyagloria@gmail.com"
 +++
 
 We are a non-profit extending the reach of education to children around the world who have limited access educational tools and material.
@@ -21,7 +22,7 @@ contribute and help the underprivileged community.
 
 <br>
 
-[Gloria Matekenya](mailto:matekenyagloria@gmail.com), *is Malawian* : 
+[Gloria Matekenya](mailto:gloria@daaya.org), *is Malawian* : 
 I have a passion of solving problems that children and young adults face 
 in my country. I believe everyone can bring change with persistence and hard work with good
 intentions.
