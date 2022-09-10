@@ -19,3 +19,16 @@ Goal of our *Yard Sale Fundraiser* at
 
  Your presence and any small contribution will make a big difference in the lives of the Girls!
 
+
+
+
+### Update
+ We were able to execute our first "Yardsale Fundraiser" and were able to raise a good amount of funds which will benefit the girls in Malawi in a greater capacity. A huge shout out to the high schoolers for pulling off this event. We thank the community for their support..
+
+![](/IMG-8816.jpg)
+![](/IMG-8817.jpg)
+![](/IMG-8818.jpg)
+![](/IMG-8820.jpg)
+![](/IMG-8822.jpg)
+![](/IMG-8823.jpg)
+![](/IMG-8824.jpg)

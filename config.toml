@@ -25,4 +25,7 @@ juice_logo_path = "Daaya_transparent.png"
 juice_extra_menu1 = [
     { title = "Donate", link = "https://paypal.me/daayainc"}
 ]
+juice_extra_menu = [
+    { title = "Donate", link = "https://www.paypal.com/donate/?hosted_button_id=AQS8C7ZH82R4W"}
+]
 repository_url = "https://github.com/huhu/juice"
