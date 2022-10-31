@@ -27,7 +27,11 @@ sewing machines to local women and they can make sanitary pads and give them to 
 ![](/image18.jpg)
 ![](/image19.jpg)
 
+
 # Other Programs
+We are helping <b>Kuongola Library Initiative</b> project which is managed by Gloria Matekenya. Our goal is to spread the power of knowledge through books.
+
+
 We would be more than happy with our open arms and big heart to partner with any community in
 need and extend our support. Stay tuned for future events.
 
