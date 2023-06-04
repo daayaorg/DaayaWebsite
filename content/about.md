@@ -2,27 +2,24 @@
 title = "About"
 description = "About"
 weight = 0
-mailto="matekenyagloria@gmail.com"
+mailto="sangya@daaya.org"
 +++
 
 We are a non-profit extending the reach of education to children around the world who have limited access educational tools and material.
 
-# Contact us
-[Sangya padhi](mailto:sangya@daaya.org), *Founder of Daaya Inc* : 
-I have always believed in fairness and equality and wanted to bring
-some positive change in the community through our building blocks of community, **Children**.
+# Team
+[Sangya padhi](mailto:sangya@daaya.org), *Founder of Daaya Inc* 
 
-<br>
+[Jagat Brahma](mailto:sangya@daaya.org), *Co-Founder of Daaya Inc* 
 
-[Nirmit Brahma](mailto:nirmit@daaya.org), *Co-founder of Daaya Inc* : 
-I am rising sophomore in Lexington High School. I have been
-involved with variety of community services with my family,
-and I count myself fortunate to be where I am. I want to
-contribute and help the underprivileged community.
-
-<br>
+[Nirmit Brahma](mailto:nirmit@daaya.org), *Strategist and Technical Director* 
 
 [Gloria Matekenya](mailto:gloria@daaya.org), *is Malawian* : 
 I have a passion of solving problems that children and young adults face 
 in my country. I believe everyone can bring change with persistence and hard work with good
 intentions.
+
+# Contact us
+[355 North Emerson Road, Lexingtom, MA-02420](https://duckduckgo.com/?q=355+North+emerson+road+lexington+ma&ia=maps&iaxm=maps)
+
+[Sangya padhi](mailto:sangya@daaya.org), [Nirmit Brahma](mailto:nirmit@daaya.org)

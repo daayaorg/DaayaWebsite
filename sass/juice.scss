@@ -38,6 +38,22 @@ header {
   justify-content: space-between;
 }
 
+.socialmedia {
+  font-family: "Alfa Slab One", serif;
+  font-size: 32px;
+  color: var(--primary-text-color);
+  display: flex;
+  align-items: center;
+  margin: 0 40px;
+  margin-bottom: 40px;
+
+  img {
+    width: 40px;
+    margin: 0 25px;
+  }
+}
+
+
 .logo {
   font-family: "Alfa Slab One", serif;
   font-size: 32px;
