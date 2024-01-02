@@ -20,6 +20,4 @@ in my country. I believe everyone can bring change with persistence and hard wor
 intentions.
 
 # Contact us
-[355 North Emerson Road, Lexingtom, MA-02420](https://duckduckgo.com/?q=355+North+emerson+road+lexington+ma&ia=maps&iaxm=maps)
-
 [Sangya padhi](mailto:sangya@daaya.org), [Nirmit Brahma](mailto:nirmit@daaya.org)
