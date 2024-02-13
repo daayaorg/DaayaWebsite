@@ -23,6 +23,10 @@ We have opened up our elementary school  *"Little Blessings"* in an attempt to e
 # Elearning App: Daaya's Learning Academy
 We will be launching our free elearning app Daaya Learning Academy soon to support elementary education.
 
+# Bringing kids together across the Globe
+We are launching this project to bring kids together across two nations. Through this project kids will get to explore cultures, share their stories, and learn empathy.
+
+
 
 # Other Programs
 <b>Kuongola Library Initiative</b> - We are helping project which is managed by Gloria Matekenya. Our goal is to spread the power of knowledge through books.
