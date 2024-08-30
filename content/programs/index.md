@@ -15,17 +15,13 @@ biological process. To solve this problem, we are trying to supply reusable sani
 enable them to continue their education. In the past, we’ve held workshops where we’ve supplied
 sewing machines to local women and they can make sanitary pads and give them to girls..
 
-{{ galleryfromlist(list="image16.jpg") }}
+{{ galleryfromlist(pattern="image16.jpg") }}
 
-# Elementary Schoool Project - Malawi
-We have opened up our elementary school  *"Little Blessings"* in an attempt to educate underprivileged elementary kids. Currently we have enrolled 15 kids.
+# Malembo village Educational Project - Malawi
+We launched our Education Project in Malembo 2022 to educatet the underprivillged kids in the village..To kick off the project  We opened a school with with 15 kids and our school is growning and  currently we have 55 kids..On Aug 12th 20224 during our visit to school, seeing parents and kids part of our school community brought so mcuh peace and joy and gave us courge to move this further.
 
 # Elearning App: Daaya's Learning Academy
 We will be launching our free elearning app Daaya Learning Academy soon to support elementary education.
-
-# Bringing kids together across the Globe
-We are launching this project to bring kids together across two nations. Through this project kids will get to explore cultures, share their stories, and learn empathy.
-
 
 
 # Other Programs
